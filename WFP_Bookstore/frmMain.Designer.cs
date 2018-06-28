@@ -1,6 +1,6 @@
 ﻿namespace WFP_Bookstore
 {
-    partial class Form1
+    partial class frmMain
     {
         /// <summary>
         /// Required designer variable.
